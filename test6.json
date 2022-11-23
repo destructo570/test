@@ -1,0 +1,24 @@
+{
+  "items": [{
+    "first_name": "Gojo",
+    "last_name": "Satorou",
+    "current_mood": "😔",
+    "email": "gojo@jujutsuhigh.jp",
+    "department": "Jujutsu Sorceror",
+    "designation": "Special grade",
+    "keywords_used": "Beep, Beep, #$%@#@, Beep",
+    "email_to": "gojo@jujutsuhigh.jp",
+    "email_from": "Amber",
+    "email_subject": "Gojo, this is about your feedback to Vishal",
+    "email_greeting": "Hi Gojo Satorou,",
+    "email_body": "Vishal would like to meet you 1:1 to discuss your feedback about your last 1 Year. The objective of this meeting is to discuss",
+    "email_footer": "Cheers! Amber",
+    "pulse":"Return to office",
+    "question":"Welcome back to the office. How does it feel to be back?",
+    "answer":"Very Bad",
+    "reason":"I'm being harassed.",
+    "keywords_detected_in_responses": "4",
+    "admin_first_name":"Vishal",
+    "admin_last_name":"Kashi"
+  }]
+}
