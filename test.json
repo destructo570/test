@@ -1,0 +1,15 @@
+{
+  "user_detail": {
+    "first_name": "Eren",
+    "last_name": "Yeager",
+    "email": "eren@surveycorps.jp",
+    "department": "Titan slayer",
+    "designation": "MC"
+  },
+  "shcedule_one_on_one": {
+    "to": "eren@surveycorps.jp",
+    "from": "Amber",
+    "subject": "Harper Wells, this is about your feedback to Vishal",
+    "body": "Vishal would like to meet you 1:1 to discuss your feedback about your last 1 Year. The objective of this meeting is to discuss"
+  }
+}
